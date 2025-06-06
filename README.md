@@ -1,5 +1,3 @@
-# TemperatureConverter
-
 # 🌡️ Temperature Converter Tool
 
 A lightweight Java-based GUI application that converts temperatures between Celsius and Fahreinheit designed using IntelliJ IDEA and packaged as a standalone executable JAR.
